@@ -1,16 +1,16 @@
-baseurl = "https://blog.wheresthehighrise.com/"
+baseurl = "https://theoriginalminifilia.blog/"
 languageCode = "en-us"
-title = "Search for High Rise"
+title = "The Life and Times of Mini Filia"
 theme = "internet-weblog"
 Paginate = 10
 SectionPagesMenu = "main"
 
 [author]
-   Handle = "Shira"
-   FirstName = "Shira"
-   LastName = "Nazarian"
-   AboutPage = "https://www.wheresthehighrise.com/#about"
-   Location = "USA,Planet Earth"
+   Handle = "Mini Filia"
+   FirstName = "Mini"
+   LastName = "Filia"
+   AboutPage = "https://www.theoriginalminifilia.com"
+   Location = "Old Sharlayan, The Northern Empty"
    FlickrID = ""
 
 [params]
