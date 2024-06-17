@@ -1,5 +1,5 @@
 +++
-title = "The Search For High Rise"
+title = "Rapture in Lala"
 date = "2024-03-08T17:57:27-06:00"
 location = "The Interwebs"
 camera = "Midjourney"
@@ -7,7 +7,7 @@ camera = "Midjourney"
 
 ## A Search Renewed!
 
-![Lone Slice of Pizza](https://live.staticflickr.com/65535/53581849399_19e36fdf85_b.jpg) 
+![Mini Filia, a portrait](https://live.staticflickr.com/65535/53797311381_9c2352e76f_b.jpg) 
 <br>
 
 <!--more-->
