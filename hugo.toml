@@ -1,0 +1,44 @@
+baseurl = "https://blog.wheresthehighrise.com/"
+languageCode = "en-us"
+title = "Search for High Rise"
+theme = "internet-weblog"
+Paginate = 10
+SectionPagesMenu = "main"
+
+[author]
+   Handle = "Shira"
+   FirstName = "Shira"
+   LastName = "Nazarian"
+   AboutPage = "https://www.wheresthehighrise.com/#about"
+   Location = "USA,Planet Earth"
+   FlickrID = ""
+
+[params]
+   Description = "This is my blog, read it and enjoy."
+   ShowCopyright = true
+   EnablePreferredDarkAppearance = true
+   RSSEnabled = true
+   RSSSections = [ "Posts", "Microposts", "Photos" ]
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+   series = "series"
+
+[[menu.main]]
+   name = "Posts"
+   weight = 1
+   identifier = "posts"
+   url = "/posts/"
+
+[[menu.main]]
+   name = "Microposts"
+   weight = 2
+   identifier = "microposts"
+   url = "/microposts/"
+
+[[menu.main]]
+   name = "Photos"
+   weight = 3
+   identifier = "photos"
+   url = "/photos/"
