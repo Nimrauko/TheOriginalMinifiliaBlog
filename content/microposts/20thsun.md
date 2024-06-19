@@ -1,6 +1,6 @@
 +++
 title = '20th sun of the 3rd Umbral Moon'
-date = 2024-06-19T08:32:21-05:0
+date = 2024-06-19T08:32:21-05:00
 draft = false
 +++
 
