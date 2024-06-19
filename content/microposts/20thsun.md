@@ -6,7 +6,7 @@ date =
 draft = false
 +++
 
-#20th sun of the 3rd Umbral Moon
+# 20th sun of the 3rd Umbral Moon
 
 I began visiting old friends today, finishing unfinished business where possible. I began in Uldah, visiting The Quicksand for a drink with Momodi and Otapa. Afterwards I returned to the Waking Sands to bid farewell to those still holding down the fort, as well as my friends in Vesper Bay. 
 
