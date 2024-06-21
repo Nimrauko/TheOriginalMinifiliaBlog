@@ -15,3 +15,5 @@ Perhaps the best thing of this particular trip was seeing the positive relations
 I ended my tour back at Limsa Lominsa, at Maelstrom Command. I wished to see my Squadron one last time before I made  my way to the Black Shroud. My squadron, the best rag tag group of Lalafell in Eorzea, eagerly greeted me. They had come so far from the discontended ruffians who my superiors sent to me. They had matured, learned discipline, and had become to each other and myself, family. 
 
 Once we had said all that needed to be said, I made my way to the Airship Landing to Gridania. First I will see the Elder Seedseer and then make my way through the shroud to Coerthas where I will stay at Camp Dragonhead before heading into Ishgard and beyond. Till Sea Swalls All
+
+![Mini Filia on a ship](https://live.staticflickr.com/65535/53807241885_c30cc2b0ca_b.jpg)
