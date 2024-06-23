@@ -12,6 +12,6 @@ After we dined and caught up on the goings of the Holy See, I bid farewell to my
 
 I noticed the sun was dipping low and dusk was upon us, so I bid farewell to my friends and made my way to the Skysteel Manufactury where Cid had a manacutter with some modifications awaiting to convey me at last to Kugane. Biggs lifted me up with such ease and set me comfortably in the Manacutter and after familiarizing myself with the controls, I made haste towards Kugane with anticipation welling up inside me. To set myself down at the Miqo'tes Tail and see my club after being away for so long was spurring me on, even though I was starting to feel quite exhausted.
 
-It was shortly  after midnight that I arrived in Kugane and stumbled my way to the Miqo'tes Tail. I can see the sun slowly peaking over the horizon, so I will go to bed now. Tomorrow is going to be an exciting day!
+It was well after midnight that I arrived in Kugane and stumbled my way to the Miqo'tes Tail. I can see the sun slowly peaking over the horizon, so I will go to bed now. Tomorrow is going to be an exciting day!
 
 ![Mini Filia in Ishgard](https://live.staticflickr.com/65535/53809872643_3d0ccd1bd4_b.jpg)
