@@ -2,7 +2,7 @@
 title = '25th sun of the 3rd Umbral Moon' 
 date = 2024-06-23T20:05:21-05:00 
 draft = false 
-feature: "assets/posts/20240219/twistedtranssister_a_lalafell_summoner_with_a_carbuncle_summon__ef1cb0fa-c910-459a-b50c-a0adf4856895.png"
+feature = "assets/posts/20240219/twistedtranssister_a_lalafell_summoner_with_a_carbuncle_summon__ef1cb0fa-c910-459a-b50c-a0adf4856895.png"
 +++
 
 # 25th sun of the 3rd Umbral Moon
