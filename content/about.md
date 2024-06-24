@@ -5,11 +5,11 @@ title = "About"
 ![me](https://live.staticflickr.com/65535/53797311381_9c2352e76f_b.jpg)
 
 # Greetings and welcome!! This will be OOC. Everywhere else in the blog will be Mini Filia. But this little section will be from me. 
-
-
+<br>
+<br>
 So a bit about me: I started playing Final Fantasy 14 during the beta before the relaunch as A Realm Reborn. I was hooked from the start. The world was gorgeous and engaging and the characters we were introduced to had such depth and the story was super engaging. I also met loads of amazing people in game over the years from all over the world. 
-
-
+<br>
+<br>
 Our characters went on amazing adventures and faced many challenges. These bonds extended well outside of the game as well. Friends went through real life trials and tribulations, and we weathered them together the best we could. There were births, deaths, weddings and the like. 
 
 
