@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
    Handle = "Mini Filia"
    FirstName = "Mini"
    LastName = "Filia"
-   AboutPage = "https://www.theoriginalminifilia.com"
+   AboutPage = "/about"
    Location = "Old Sharlayan, The Northern Empty"
    FlickrID = ""
 
