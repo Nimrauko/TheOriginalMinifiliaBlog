@@ -27,18 +27,25 @@ SectionPagesMenu = "main"
 
 [[menu.main]]
    name = "Posts"
-   weight = 1
+   weight = 2
    identifier = "posts"
    url = "/posts/"
 
 [[menu.main]]
    name = "Microposts"
-   weight = 2
+   weight = 3
    identifier = "microposts"
    url = "/microposts/"
 
 [[menu.main]]
    name = "Photos"
-   weight = 3
+   weight = 4
    identifier = "photos"
    url = "/photos/"
+
+  [[menu.main]]
+   name = "Home"
+   weight = 1
+   identifier = "Home"
+   url = "https://www.theoriginalminifilia.com"
+   
