@@ -6,7 +6,7 @@ draft = false
 
 # 72 Hours Remain...well kind of
 
-! [Dawn of the final day](https://live.staticflickr.com/65535/53816215830_3e8d75c4b0_k.jpg)
+![Dawn of the final day](https://live.staticflickr.com/65535/53816215830_3e8d75c4b0_k.jpg)
 
 So in roughly 57 hours from the writing of this post, Warriors of light from all over the world will be heading to the New World to have marvelous new adventures with old friends and those we have yet to meet. The anticipation is palpable in the community.
 
